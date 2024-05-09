@@ -1,4 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Jacob! <br/><a href="https://www.youtube.com/playlist?list=PLozbOv7AySHSc1dIU8ZxDv2nlzVB0H2Si"> Indie Game Developer</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHRTyrvRBWBBtRutugWP52VS">Cybersecurity Professional</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHTDQsplgmQYJn91oe9EDcNJ">Software Engineer</a></h1>
+
+<h2>Game Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Cyber Security Projects:</h2>
+
+
+<h2>Software Development Projects:</h2>
+
+
+<h2>Certifications:</h2>
+
+
+<h2>Dev Logs</h2>
+
+- [Channel Link For Example](https://www.youtube.com/@jacobcampau)
+
 
 <!--
 **JacobCampau/JacobCampau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
