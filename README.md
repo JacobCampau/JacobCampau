@@ -1,4 +1,5 @@
-<h1>Jacob Campau, <br/><a href="https://www.youtube.com/playlist?list=PLozbOv7AySHSc1dIU8ZxDv2nlzVB0H2Si">Game Developer</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHRTyrvRBWBBtRutugWP52VS">Cybersecurity Professional</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHTDQsplgmQYJn91oe9EDcNJ">Software Engineer</a></h1>
+<h1>Jacob Campau
+  \<br/><a href="https://www.youtube.com/playlist?list=PLozbOv7AySHSc1dIU8ZxDv2nlzVB0H2Si">Game Developer</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHRTyrvRBWBBtRutugWP52VS">Cybersecurity Professional</a>, <a href="https://www.youtube.com/playlist?list=PLozbOv7AySHTDQsplgmQYJn91oe9EDcNJ">Software Engineer</a></h1>
 
 <h2>Game Development Projects:</h2>
 
