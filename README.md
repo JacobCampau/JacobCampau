@@ -8,6 +8,10 @@
 - <b>Connect 4 (UNR CS135 Final Group Project)</b>
   - [Connect 4](https://github.com/JacobCampau/Connect4.git)
 -->
+
+- <b> Multiplayer Game</b>
+  - [Tempt tag](https://github.com/JacobCampau/Battleship.git)
+
 <h2>Cyber Security Projects:</h2>
 
 - <b> AI Email Phishing Detection (CS 491 Final Project)</b>
