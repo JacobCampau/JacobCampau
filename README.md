@@ -10,17 +10,17 @@
 -->
 
 - <b> Multiplayer Game</b>
-  - [Tempt tag](https://github.com/JacobCampau/Battleship.git)
+  - [Tempt tag]()
 
 <h2>Cyber Security Projects:</h2>
 
 - <b> AI Email Phishing Detection</b>
-  - [Phishing Email Analyzer](https://github.com/JacobCampau/Battleship.git)
+  - [Phishing Email Analyzer](https://github.com/JacobCampau/PhishingEmailAnalyzer.git)
 
 <h2>Software Development Projects:</h2>
 
 - <b> Car Database</b>
-  - [Car Database](https://github.com/JacobCampau/Battleship.git)
+  - [Car Database](https://github.com/JacobCampau/CarDatabase.git)
 
 <h2>Certifications:</h2>
 
