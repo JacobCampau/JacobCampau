@@ -2,12 +2,12 @@
 
 <h2>Game Development Projects:</h2>
 
-- <b>Battleship (UNR CS202 Final Project)</b>
+<!-- - <b>Battleship (UNR CS202 Final Project)</b>
   - [Battleship](https://github.com/JacobCampau/Battleship.git)
  
 - <b>Connect 4 (UNR CS135 Final Group Project)</b>
   - [Connect 4](https://github.com/JacobCampau/Connect4.git)
-
+-->
 <h2>Cyber Security Projects:</h2>
 
 
