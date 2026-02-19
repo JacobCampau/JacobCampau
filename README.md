@@ -20,8 +20,8 @@
 <h2>Software Development Projects:</h2>
 
 - <b> Car Database</b>
-  - [Car Database](https://github.com/JacobCampau/CarDatabase.git)
   - [Standalone Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
+  - [Original Car Database](https://github.com/JacobCampau/CarDatabase.git)
 
 <h2>Certifications:</h2>
 
