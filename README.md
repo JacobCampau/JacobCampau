@@ -9,8 +9,10 @@
   - [Connect 4](https://github.com/JacobCampau/Connect4.git)
 -->
 
+<!--
 - <b> Multiplayer Game</b>
   - [Multiplayer Game]()
+-->
 
 <h2>Cyber Security Projects:</h2>
 
