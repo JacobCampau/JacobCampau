@@ -23,7 +23,6 @@
 
 - <b> Car Database</b>
   - [Standalone Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
-  - [Original Car Database](https://github.com/JacobCampau/CarDatabase.git)
 
 <h2>Certifications:</h2>
 
