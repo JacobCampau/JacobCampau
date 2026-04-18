@@ -22,9 +22,15 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b> Car Database</b>
+- <b>Car Database</b>
   - A database system with a database layer, application layer, and UI layer that allows the user to filter by car informaiton and add their own information
   - [Standalone Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
+
+<h2>Computer Engineering Projects:</h2>
+
+- <b>Swamp Cooler</b>
+  - A small circuit board system set up with basic workings of a swamp cooler
+  - [Swam Cooler System](https://github.com/JacobCampau/SwampCooler)
 
 <h2>Certifications:</h2>
 
