@@ -16,12 +16,14 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b> AI Email Phishing Detection</b>
+- <b> AI Email Phishing Model Disagreement Analysis</b>
+  - An AI system built on analyzing disagreements between AI models that specialize in detecting phishing scams
   - [Phishing Email Analyzer](https://github.com/JacobCampau/PhishingEmailAnalyzer.git)
 
 <h2>Software Development Projects:</h2>
 
 - <b> Car Database</b>
+  - A database system with a database layer, application layer, and UI layer that allows the user to filter by car informaiton and add their own information
   - [Standalone Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
 
 <h2>Certifications:</h2>
