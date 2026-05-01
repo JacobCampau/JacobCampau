@@ -23,8 +23,8 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Car Database</b>
-  - A database system with a database layer, application layer, and UI layer that allows the user to filter by car informaiton and add their own information
-  - [Standalone Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
+  - A database system with a database layer, application layer, and UI layer that allows the user to filter by car information and add their own information
+  - [Filter Car Database](https://github.com/JacobCampau/CarDatabaseStandalone.git)
 
 <h2>Computer Engineering Projects:</h2>
 
