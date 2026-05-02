@@ -26,7 +26,3 @@
 
 ## Certifications
 
-
-## Dev Logs
-
-- [Channel Link For Example](https://www.youtube.com/@jacobcampau)
