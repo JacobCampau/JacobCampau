@@ -3,7 +3,7 @@
 ## Game Development Projects
 
 - <b>Pick a Struggle</b>
-  - Gather your friends for a struggle filled, hunger games styled, fight to the top.
+  - Gather your friends for a struggle filled, survival based, fight to the top.
   - [Pick a Struggle](https://github.com/JacobCampau/PickAStruggle.git)
 
 ## Cyber Security Projects
