@@ -1,4 +1,4 @@
-# Jacob Campau<br/>[Game Developer](https://www.youtube.com/playlist?list=PLozbOv7AySHSc1dIU8ZxDv2nlzVB0H2Si), [Cybersecurity Professional](https://www.youtube.com/playlist?list=PLozbOv7AySHRTyrvRBWBBtRutugWP52VS), [Software Engineer](https://www.youtube.com/playlist?list=PLozbOv7AySHTDQsplgmQYJn91oe9EDcNJ)
+# Jacob Campau<br/>[Game Developer](https://www.youtube.com/playlist?list=PLozbOv7AySHSc1dIU8ZxDv2nlzVB0H2Si), [Cybersecurity](https://www.youtube.com/playlist?list=PLozbOv7AySHRTyrvRBWBBtRutugWP52VS), [Software Engineer](https://www.youtube.com/playlist?list=PLozbOv7AySHTDQsplgmQYJn91oe9EDcNJ)
 
 ## Personal Projects
 ### Homelabs
